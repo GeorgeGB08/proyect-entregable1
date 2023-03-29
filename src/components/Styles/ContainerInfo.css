@@ -1,0 +1,103 @@
+.containerInfo__title {
+    color: #ffffff3b; 
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow: 4px 3px 2px var(--blanco);
+    text-transform: uppercase;
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
+
+.containerInfo__phrase {
+    /* background-image: url("/images/rectangle.png");  */
+     
+    background: linear-gradient(to bottom, #0000001f, #c2c1c171);
+    color: rgb(255, 255, 255);
+    font-weight: lighter;
+    text-align: center;
+    padding: 10px 40px; 
+    /* max-width: max-content; */
+    margin: 0 auto;
+    position: center;
+    bottom: 10px;
+    left: 50%; 
+    /* transform: translateX(-50%); */
+    border-radius: 20px;
+
+  
+    text-align: left;
+    /* text-align: justify; */
+    line-height: 1.4;
+    background-size: contain;
+    background-repeat: no-repeat;
+    aspect-ratio: 1.7;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 400px;
+
+}
+
+/* .containerInfo__author original {
+   
+    background-color:#fffefe7a ; 
+    color: rgb(12, 12, 12);
+    font-weight: lighter;
+    text-align: center;
+    padding: 10px 20px; 
+    max-width: max-content;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+
+} */
+
+.containerInfo__author {
+    /* background-image: url("/images/Vector.png"); */
+    
+    /* background-color:#fffefe7a ; 
+    color: rgb(12, 12, 12);
+    font-weight: lighter; */
+
+    /* color: var(--blanco);
+    padding: 20px;
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    aspect-ratio: 1.7;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 400px;
+    text-align: center;
+    padding: 10px 20px; 
+    max-width: max-content;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%); */ 
+
+    
+    background: linear-gradient(to bottom, #0000001f, #c2c1c171);
+    color: rgb(252, 252, 252);
+    font-weight: lighter;
+    text-align: center;
+    padding: 10px 20px; 
+    max-width: max-content;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 100px;
+} 
+

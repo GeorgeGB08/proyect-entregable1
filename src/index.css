@@ -1,0 +1,47 @@
+/* @import url('https://fonts.googleapis.com/css2? family= Roboto+Mono:wght@200;300;400;500;600;700 & display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+:root {
+  --blanco: #FFFFFF;
+  --morado:#25063F; 
+  --transparente:#FFFFFF54;     
+}
+
+
+
+body {
+
+    margin: 0;
+  
+  }
+  
+   
+  
+  html {
+  
+    box-sizing: border-box;
+    /* font-family: 'Roboto Mono', monoespaciado; */
+    font-family: 'Press Start 2P', cursive;
+    ;
+  
+  }
+  
+   
+  
+  *, *::after, *::before {
+  
+    box-sizing: inherit;
+  
+  }
+  
+   
+  
+   
+  
+  h1, h2, h3, h4, h5, h6 {
+  
+    margin: 0;
+    font-weight: normal;
+  
+  }
